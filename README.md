@@ -38,7 +38,7 @@ Before you get started, you need to have the following software installed on you
 
    ```bash
 
-   git clone https://github.com/yourusername/your-project.git
+   git clone https://github.com/himanshuaggar/News-APP-RN.git
 
    ```
 
@@ -46,7 +46,7 @@ Before you get started, you need to have the following software installed on you
 
    ```bash
 
-   cd your-project
+   cd News-APP-RN
 
    ```
 
